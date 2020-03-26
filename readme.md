@@ -16,6 +16,12 @@ You may choose to create your project in the workspace we provide here, or if yo
 
 ## Output Pictures
 
+#
+![kafka-console-consumer](https://github.com/sal-git/SF-Crime-Statistics-with-Spark-Streaming/blob/master/kafka-console-consumer.png?raw=true)
+#
+![Progress](https://github.com/sal-git/SF-Crime-Statistics-with-Spark-Streaming/blob/master/progress_reporter.png?raw=true)
+#
+![Streaming UI Output](https://github.com/sal-git/SF-Crime-Statistics-with-Spark-Streaming/blob/master/spark_streaming_ui.png?raw=true)
 
 ## Questions
 
